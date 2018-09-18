@@ -1,0 +1,17 @@
+{
+  "name": "image-orientation-js",
+  "version": "1.0.0",
+  "description": "Module to fix ios/android image rotation issue when user take a photo and upload via input field.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "image",
+    "image-orientation",
+    "android-image-orientation"
+  ],
+  "author": "Harman Pannu",
+  "license": "ISC"
+}
