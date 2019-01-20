@@ -1,5 +1,8 @@
 # Image Orientation Js
 
+JS Client-Side Exif Orientation: Rotate and Mirror JPEG Images
+
+
 ```sh
 npm install image-orientation-js
 ```
