@@ -1,4 +1,4 @@
-# image-orientation-js
+# Image Orientation Js
 
 ```sh
 npm install image-orientation-js
