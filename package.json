@@ -12,6 +12,7 @@
     "image-orientation",
     "android-image-orientation"
   ],
+  "tags": ["exif","ios","javascript","image-orientation"],
   "author": "Harman Pannu",
   "license": "ISC"
 }
