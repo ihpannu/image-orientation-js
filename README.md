@@ -19,7 +19,7 @@ yarn add image-orientation-js
       for (const file of uploads) {
           const converted = await getNewFile(file)
           const url = URL.createObjectURL(converted)
-          document.querySelector("img).src = url
+          document.querySelector("img").src = url
         }
       }
 
