@@ -12,6 +12,16 @@ yarn add image-orientation-js
 
 ```javascript
  import getNewFile from 'image-orientation-js'
- const file = getNewFile(file)
+ 
+ async function fixOrientation() {
+      const uploads = document.querySelector("input").files
+      
+      for (const file of uploads) {
+          const converted = await getNewFile(file)
+          const url = URL.createObjectURL(converted)
+          document.querySelector("img).src = url
+        }
+      }
+
 ```
 
