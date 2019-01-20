@@ -1,9 +1,17 @@
 # image-orientation-js
 
+```sh
+npm install image-orientation-js
+```
 
-## npm i image-orientation-js
+```sh
+yarn add image-orientation-js
+```
 
-### Usage
+## Examples
 
-- import getNewFile from 'image-orientation-js'
-- const file = getNewFile(file)
+```javascript
+ import getNewFile from 'image-orientation-js'
+ const file = getNewFile(file)
+```
+
